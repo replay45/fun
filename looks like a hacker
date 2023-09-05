@@ -1,1 +1,14 @@
-test
+WICHTIG: Funktioniert nur in cmd unter Windows !
+
+
+win + r
+
+cmd
+
+Enter
+
+In cmd einfügen:
+
+color 0a
+
+dir/s

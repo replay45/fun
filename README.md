@@ -1,2 +1,2 @@
 # fun
-Fun projects
+different fun projects

@@ -6,14 +6,22 @@ Die Nutzung der Anleitung ist auf eigene Gefahr, denn der Autor übernimmt keine
 WICHTIG: Funktioniert nur in cmd unter Windows !
 
 
+1. CMD öffnen:
+
 win + r
 
 cmd
 
 Enter
 
-In cmd einfügen:
+
+2. In CMD eigeben:
 
 color 0a
 
 dir/s
+
+Enter
+
+
+Der Befehl "dir/s" listet alle Verzeichnisse im Terminal auf.

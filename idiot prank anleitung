@@ -16,3 +16,4 @@ a=msgbox("Hahaha, I Knew it!",0+64,"PC Hacked")
 
 
 3. Datei als ".vbs" speichern.
+4. Natürlich können Anpassungen des Textes, der in der Box erscheint angepasst werden. Dafür muss einfach nur der Text innerhalb der Anführungsstriche geändert werden.

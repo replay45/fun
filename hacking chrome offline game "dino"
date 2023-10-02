@@ -1,0 +1,23 @@
+Disclaimer:
+Diese Anleitung ist ausschließlich für ethical Hacking und dient zur Prevention, sowie für Aufklärungs- & Bildungszwecke !
+Zudem ist die Anleitung verantwortungsbewusst und nur für legale Zwecke zu nutzen.
+Die Nutzung der Anleitung ist auf eigene Gefahr, denn der Autor übernimmt keine Garantie für die Richtigkeit der Anleitung und haftet nicht für entstandene Schäden.
+
+Hinweis:
+Das offline Spiel läuft local auf dem Computer !
+
+
+
+In Chrome, Chromium oder einem Browser der auf Chromium basiert, (wie z.B. Brave) das offline Game "Dino" hacken.
+
+
+1. In die Adressleiste chrome:dino eingeben, um das offline Spiel zu starten.
+2. Rechtsklick,
+3. "Untersuchen" auswählen,
+4. im Menü auf "Console" klicken,
+5. Befehl eingeben: Runner.prototype.gameOver = function (){}
+6. Enter.
+
+
+Wenn automatisch in einer neuen Zeile "ƒ (){}" erscheint, dann funktioniert der Befehl und 
+das Spiel läuft ohne, dass der Dino bei einem Hindernis stirbt.

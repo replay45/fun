@@ -1,0 +1,26 @@
+cmatrix
+
+
+Linux:
+$ sudo apt install cmatrix
+
+$ cmatrix
+
+
+zusätzliche Optionen
+ -b: Bold characters on
+ -r: rainbow mode
+ -m: lambda mode
+
+
+Geschwindigkeit ändern:
+ 0 -> am schnellsten
+ 9 -> am langsammsten
+
+
+Farbe ändern:
+ # -> orange
+ ! -> rot
+ $ -> blau
+ % -> lila
+ & -> weiß

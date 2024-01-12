@@ -1,0 +1,19 @@
+Fun Befehl für CMD auf Windows.
+Der Befehl funktioniert auch wahlweise in anderen Terminals, wie z.B. auf Linux oder in Termux.
+
+
+1. CMD öffnen:
+
+win + r
+
+cmd
+
+Enter
+
+
+
+2. In CMD eigeben:
+
+color 2 & curl ascii.live/forrest
+
+Enter
